@@ -11,3 +11,4 @@ After set the program , Press on start to download the ubuntu.
 Then choose the file of ubuntu and download it.
 Write the name and the password for the ubuntu.
 When the ubuntu is open Open the terminal and copy paste the commands from the website.# ROS
+1
